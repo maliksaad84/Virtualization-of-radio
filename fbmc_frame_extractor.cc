@@ -23,7 +23,7 @@
 #endif
 
 #include <gnuradio/io_signature.h>
-#include "fbmc_valve_fd_impl.h"
+#include "fbmc_frame_extractor.h"
 
 #include <volk/volk.h>
 
